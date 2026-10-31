@@ -1,5 +1,7 @@
 # Nivalis Switchboard
 
+<p align="center"><img src="media/switchboard.gif" alt="Nivalis Switchboard open over the game: a tree of mods and their settings groups on the left, switches, sliders, lists and steppers on the right, used with a mouse and then a controller." width="100%"></p>
+
 An in-game settings menu for Nivalis Nights mods that support it ([People of Nivalis](https://github.com/skyehosting/PeopleOfNivalis),
 and more as they come). It finds them by itself and shows every one of their settings, grouped the way their settings
 files are, and every change applies at once. Nothing needs it: without it, each mod's settings are still in its file in
