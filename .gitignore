@@ -1,0 +1,8 @@
+bin/
+obj/
+release/
+*.user
+
+# Never commit settings or keys
+*.cfg
+*.pdb
